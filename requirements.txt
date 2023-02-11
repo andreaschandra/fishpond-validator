@@ -1,0 +1,10 @@
+opencv-python
+matplotlib
+numpy
+odc-stac
+pandas
+rioxarray
+Pillow
+planetary-computer
+pystac-client
+geopy
